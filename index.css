@@ -85,6 +85,10 @@ nav ul ul li{
 	font-family: italic;
   }
 
+  .carousel-inner p{
+	font-size: 10px;
+	font-weight:bold ;
+  }
 .about{
 		
 		margin: auto;
