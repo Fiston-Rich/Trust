@@ -134,6 +134,7 @@ h2{
 	"form info"
 	"form map";
 	grid-gap: 20px;
+	padding-top: 40px;
 }
 .contact h3{
 	color: #0e3959;
@@ -151,6 +152,7 @@ input{
 	border-color: #000;
 	margin-bottom: 20px;
 	margin-top: 20%;
+	padding-top: 20px;
 }
 textarea{
 	background: #fff;
